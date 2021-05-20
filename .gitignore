@@ -4,3 +4,6 @@ sorted_reads
 dag.svg
 v5.4.5.tar.gz
 .snakemake
+.DS_Store
+out
+data_trimmed
